@@ -4,8 +4,8 @@ createApp({
     data(){
         return{
             titolo :'Hello Vue',
-            color : 'red',
-            image : ''
+            image : './img/download.jpg',
+            color : 'red'
         }
     }
 }).mount('#app');
